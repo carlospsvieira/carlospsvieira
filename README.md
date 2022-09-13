@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Vieira</h1>
-<h3 align="center">A software development student</h3>
+<h3 align="center">A Software Development Student</h3>
 
 - 🌱 I’m currently learning **React at school and Python by myself.**
 
