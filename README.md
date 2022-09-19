@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **carlepsvieira@gmail.com**
 
-- ⚡ Fun fact **I was in a skate punk rock band when I was 16 :D**
+- ⚡ Fun fact **I was in a skate punk rock band when I was 16 :smily:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
