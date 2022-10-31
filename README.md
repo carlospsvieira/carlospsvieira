@@ -5,7 +5,8 @@ Software Developer
 ------------------
 
 I'm attending a tech school for full-stack development.
-<p Proficient in JS and CSS, and I'm getting some hands-on work with React projects as well. >
+<br />
+Proficient in JS and CSS, and I'm getting some hands-on work with React projects as well.
 
 * ✉️  You can contact me at [carlepsvieira@gmail.com](mailto:carlepsvieira@gmail.com)
 * 🧠  I'm learning some fundamentals of cloud computing outside of school.
