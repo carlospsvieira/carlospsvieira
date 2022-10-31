@@ -1,4 +1,4 @@
-Hi ![] My name is Carlos Vieira
+Hey there! My name is Carlos Vieira
 =====================================================================================================================================
 
 Software Developer
