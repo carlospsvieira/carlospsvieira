@@ -8,7 +8,7 @@ Software Developer
 
 I'm attending a tech school for full-stack development.
 <br />
-Proficient in JS and CSS, I'm getting some hands-on work with React projects as well.
+Proficient in JavaScript, currently practicing my React.js skills at school and happy with my progress.
 
 * ✉️  You can contact me at [carlepsvieira@gmail.com](mailto:carlepsvieira@gmail.com)
 * 🧠  I'm learning some fundamentals of cloud computing outside of school.
