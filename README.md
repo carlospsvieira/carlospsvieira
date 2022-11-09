@@ -11,7 +11,7 @@ I'm attending a tech school for full-stack development.
 Proficient in JavaScript, currently practicing my React.js skills at school and happy with my progress.
 
 * ✉️  You can contact me at [carlepsvieira@gmail.com](mailto:carlepsvieira@gmail.com)
-* 🧠  I'm learning some fundamentals of cloud computing outside of school.
+* 🧠  I'm learning some cloud computing fundamentals on the side.
 
 ### Skills
 
