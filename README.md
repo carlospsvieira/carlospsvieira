@@ -12,6 +12,7 @@ Proficient in JavaScript, currently practicing my React.js skills at school and 
 
 * ✉️  You can contact me at [carlepsvieira@gmail.com](mailto:carlepsvieira@gmail.com)
 * 🧠  I'm learning React testing and Redux, will be working on back-end projects starting on January 2023.
+* Alongside school I am also learning cloud computing on my own.
 
 ### Skills
 
