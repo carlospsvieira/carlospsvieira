@@ -6,13 +6,13 @@ My name is Carlos Vieira
 Software Developer
 ------------------
 
-I'm attending a tech school for full-stack development.
+I'm attending an IT school for software development.
 <br />
-Proficient in JavaScript, currently practicing my React.js skills at school and happy with my progress.
+Proficient in JavaScript | HTML | CSS, currently practicing my React.js skills at school and happy with my progress.
 
 * ✉️  You can contact me at [carlepsvieira@gmail.com](mailto:carlepsvieira@gmail.com)
 * 🧠  I'm learning React testing and Redux, will be working on back-end projects starting on January 2023.
-* Alongside school I am also learning cloud computing on my own.
+* Alongside school I'm also learning cloud computing on my own.
 
 ### Skills
 
