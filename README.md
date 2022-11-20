@@ -8,7 +8,6 @@ Software Developer
 
 I'm attending an IT school for software development.
 <br />
-Currently practicing my React.js skills at school and happy with my progress.
 
 * ✉️  You can contact me at [carlepsvieira@gmail.com](mailto:carlepsvieira@gmail.com)
 * 🧠  I'm learning React testing and Redux, will be working on back-end projects starting on January 2023.
