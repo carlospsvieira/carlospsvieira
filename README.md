@@ -6,11 +6,8 @@ My name is Carlos Vieira
 Software Developer
 ------------------
 
-I'm attending an IT school for software development.
-<br />
-
 * ✉️  You can contact me at [carlepsvieira@gmail.com](mailto:carlepsvieira@gmail.com)
-* 🧠  I'm learning React testing and Redux, will be working on back-end projects starting on January 2023.
+* 🧠  I'm learning React testing and Redux right now, and will be working on back-end projects starting on January 2023.
 * Alongside school I'm also learning cloud computing on my own.
 
 ### Skills
