@@ -7,7 +7,7 @@ Software Developer
 ------------------
 
 * ✉️  You can contact me at [carlepsvieira@gmail.com](mailto:carlepsvieira@gmail.com)
-* 🧠  I'm learning React testing and Redux right now, and will be working on back-end projects starting on January 2023.
+* 🧠  I'm learning Redux right now, and will be working on back-end projects starting on January 2023.
 * Alongside school I'm also learning cloud computing on my own.
 
 ### Skills
