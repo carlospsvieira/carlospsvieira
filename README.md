@@ -1,7 +1,7 @@
 Hey! My name is Carlos Vieira
 ==============================
 
-Front-end Software developer
+Software developer
 ----------------------------
 
 * ✉️  You can contact me at [carlepsvieira@gmail.com](mailto:carlepsvieira@gmail.com)
