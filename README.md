@@ -1,7 +1,7 @@
 Hey! My name is Carlos Vieira
 ==============================
 
-Web Developer | React and React Native
+Web and Mobile Developer | React
 ----------------------------
 
 * ✉️  You can contact me at [carlepsvieira@gmail.com](mailto:carlepsvieira@gmail.com)
