@@ -4,7 +4,7 @@ Hey! My name is Carlos Vieira
 Web Developer
 ----------------------------
 
-*✉️  You can contact me at [carlepsvieira@gmail.com](mailto:carlepsvieira@gmail.com)
+✉️  You can contact me at [carlepsvieira@gmail.com](mailto:carlepsvieira@gmail.com)
 
 ### Skills
 
