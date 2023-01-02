@@ -7,7 +7,7 @@ Web Developer
  <p>:mortar_board: &nbsp; Software Developer Student at Trybe (Institute of Technology, Brazil). </p>
  <p> :construction_worker: &nbsp; I've worked on personal and school projects with React and other front-end technologies for the past 6 months. </p>
  <p> :books: :wrench: &nbsp; I'm currently learning back-end development and have just finished a full-stack project with Express.js and MongoDB. </p>
- <p> :trophy: &nbsp; Earned a React.js Skill Assessment Badge from LinkedIn. </p>
+ <p> :trophy: &nbsp; Earned a React.js Skill Assessment Badge from <a href="https://www.linkedin.com/in/carlospsvieira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>. </p>
 
 
 ----------------------------
