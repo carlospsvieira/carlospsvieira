@@ -4,7 +4,7 @@ Hey! My name is Carlos Vieira
 Web Developer
 ----------------------------
 
-#### I'm a front-end developer who has worked on personal and school projects. I've recently earned a React.js Skill badge from LinkedIn.
+#### I've worked on personal and school projects for the past 6 months. I've recently earned a React.js Skill badge from LinkedIn.
 #### I'm currently learning back-end development and have just finished a full-stack project with Express.js and MongoDB.
 
 
