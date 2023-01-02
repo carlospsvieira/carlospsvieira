@@ -6,7 +6,7 @@ Hey! My name is Carlos Vieira
  <p> :books: :wrench: &nbsp; I'm currently learning back-end development and have just finished a full-stack project with Express.js and MongoDB. </p>
  <p> 🥇 &nbsp; Earned a React.js Skill Assessment Badge from <a href="https://www.linkedin.com/in/carlospsvieira" target="_blank" rel="noreferrer">LinkedIn</a>.</p></p>
  <p> :phone:  &nbsp; Worked in the telecom industry in Canada 🇨🇦 as a sales consultant before I found out my passion for programming. </p>
- <p> 🎵 &nbsp; I enjoy playing music for fun at a local studio in my free time. </p>
+ <p> 🎵 &nbsp; I enjoy playing music with friends at a local studio in my free time. </p>
 
 
 ----------------------------
