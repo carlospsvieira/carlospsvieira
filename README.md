@@ -5,9 +5,9 @@ Web Developer
 ----------------------------
 
  <p>:mortar_board: &nbsp; Software Developer Student at Trybe (Institute of Technology, Brazil). </p>
- I've worked on personal and school projects with React and other front-end technologies for the past 6 months.
- I've recently earned a React.js Skill badge from LinkedIn.
- I'm currently learning back-end development and have just finished a full-stack project with Express.js and MongoDB.
+ <p> :wrench: &nbsp; I've worked on personal and school projects with React and other front-end technologies for the past 6 months. </p>
+ <p> &nbsp; I've recently earned a React.js Skill badge from LinkedIn. </p>
+ <p> &nbsp; I'm currently learning back-end development and have just finished a full-stack project with Express.js and MongoDB. </p>
 
 
 
