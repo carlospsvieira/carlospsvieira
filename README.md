@@ -10,9 +10,9 @@ Web Developer
  <p> :trophy: &nbsp; Earned a React.js Skill Assessment Badge from LinkedIn. </p>
 
 
-
+----------------------------
 ✉️  You can contact me at [carlepsvieira@gmail.com](mailto:carlepsvieira@gmail.com)
-
+----------------------------
 ### Skills
 
 <p align="left">
