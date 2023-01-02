@@ -4,10 +4,10 @@ Hey! My name is Carlos Vieira
 Web Developer
 ----------------------------
 
- <p> :mortar_board:   Software Developer Student at Trybe (Institute of Technolofy, Brazil). </p>  
+ <pre>:mortar_board: Software Developer Student at Trybe (Institute of Technolofy, Brazil). 
  I've worked on personal and school projects with React and other front-end technologies for the past 6 months.
  I've recently earned a React.js Skill badge from LinkedIn.
- I'm currently learning back-end development and have just finished a full-stack project with Express.js and MongoDB.
+ I'm currently learning back-end development and have just finished a full-stack project with Express.js and MongoDB.</pre>
 
 
 
