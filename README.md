@@ -4,6 +4,10 @@ Hey! My name is Carlos Vieira
 Web Developer
 ----------------------------
 
+
+#### I'm currently learning back-end development and already have done a full-stack project with Express.js and MongoDB.
+
+
 ✉️  You can contact me at [carlepsvieira@gmail.com](mailto:carlepsvieira@gmail.com)
 
 ### Skills
