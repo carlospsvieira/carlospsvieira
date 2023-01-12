@@ -1,7 +1,7 @@
 Hey! My name is Carlos Vieira
 ==============================
 
- <p>:mortar_board: &nbsp; Software Development Student at Trybe (Institute of Technology, Brazil). </p>
+ <p>:mortar_board: &nbsp; Software Development Student at Trybe Institute of Technology, Brazil. </p>
  <p> :construction_worker: &nbsp; I've been working on web apps with React and other front-end technologies for the past 6 months. </p>
  <p> :books: :wrench: &nbsp; I'm currently learning back-end development and have just finished a full-stack project with Next.js and Firebase. </p>
  <p> 🥇 &nbsp; Earned a React.js Skill Assessment Badge from <a href="https://www.linkedin.com/in/carlospsvieira" target="_blank" rel="noreferrer">LinkedIn</a>.</p></p>
