@@ -2,7 +2,7 @@ Hey! My name is Carlos Vieira
 ==============================
 
  <p>:mortar_board: &nbsp; 2023 Web Development and Computer Science graduate. </p>
- <p> :construction_worker: &nbsp; I've been working on web apps with React and other technologies for the past 6 months. </p>
+ <p> :construction_worker: &nbsp; I've been working on web apps for over 6 months. </p>
  <p> :books: :wrench: &nbsp; I've just finished a full-stack project with Next.js and Firebase. </p>
  <p> 🥇 &nbsp; Earned a React.js Badge from <a href="https://www.linkedin.com/in/carlospsvieira" target="_blank" rel="noreferrer">LinkedIn</a>.</p></p>
  <p> 📱 :canada: &nbsp; Worked in the telecom industry in Canada as a sales consultant before I found out my passion for programming. </p>
