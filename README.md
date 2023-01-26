@@ -2,7 +2,7 @@ Hey! My name is Carlos Vieira
 ==============================
 
  <p>:mortar_board: &nbsp; 2023 Web Development and Computer Science graduate. </p>
- <p> :construction_worker: &nbsp; I've been working solo and with groups from time to time. </p>
+ <p> :construction_worker: &nbsp; I've been building apps solo and with school groups. </p>
  <p> 🥇 &nbsp; Earned a React.js Badge from <a href="https://www.linkedin.com/in/carlospsvieira" target="_blank" rel="noreferrer">LinkedIn</a>.</p></p>
  <p> 📱 :canada: &nbsp; Worked in the telecom industry in Canada as a sales consultant. </p>
  <p> 🎵 &nbsp; I enjoy playing music with friends at a local studio in my free time. </p>
