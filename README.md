@@ -2,7 +2,7 @@ Hey! My name is Carlos Vieira
 ==============================
 
  <p>:mortar_board: &nbsp; 2023 Web Development and Computer Science certificate. </p>
- <p> :construction_worker: &nbsp; Experience building apps with React.js / Next and BaaS (Firebase). </p>
+ <p> :construction_worker: &nbsp; Experience building apps with React.js and BaaS (Firebase). </p>
  <p> 🥇 &nbsp; Earned a React.js Badge from <a href="https://www.linkedin.com/in/carlospsvieira" target="_blank" rel="noreferrer">LinkedIn</a>.</p></p>
  <p> 📱 :canada: &nbsp; Worked in the telecom industry in Canada as a sales consultant. </p>
  <p> 🎵 &nbsp; I enjoy playing music with friends at a local studio in my free time. </p>
