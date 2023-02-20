@@ -2,7 +2,7 @@ Hey! My name is Carlos Vieira
 ==============================
 
  <p>:mortar_board: &nbsp; Software Development Grad. </p>
- <p><img src="https://i.ibb.co/GFsKdGr/IMG-20230218-163503.png" alt="IMG_20230218_163503" border="0" width="15"> &nbsp; Meta Front-end Professional Certificate. </p>
+ <p><img src="https://i.ibb.co/GFsKdGr/IMG-20230218-163503.png" alt="IMG_20230218_163503" border="0" width="15"> &nbsp; Meta Front-end Developer Professional Certificate. </p>
  <p> :construction_worker: &nbsp; Experience building apps with React.js and BaaS. </p>
  <p> 📱 :canada: &nbsp; Worked in the telecom industry in Canada as a sales consultant. </p>
  <p> 🎵 &nbsp; I enjoy playing music with friends at a local studio in my free time. </p>
