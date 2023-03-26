@@ -2,7 +2,7 @@ Hey! My name is Carlos Vieira
 ==============================
 
  <p>:mortar_board: &nbsp; Web Development. </p>
- <p> :construction_worker: &nbsp; Experience building apps with React.js. </p>
+ <p> :construction_worker: &nbsp; Experience buiding dynamic and intuitive software. </p>
  <p> 📱 :canada: &nbsp; Worked in the telecom industry in Canada as a sales consultant. </p>
  <p> 🎵 &nbsp; I play music and chess in my free time. </p>
 
