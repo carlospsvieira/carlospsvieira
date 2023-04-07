@@ -3,7 +3,7 @@ Carlos Vieira
 
  <p>:mortar_board: &nbsp; Web Development. </p>
  <p> :construction_worker: &nbsp; Experience buiding dynamic and intuitive software. </p>
- <p> 🖥️ &nbsp; Check out my portfolio: https://carlospsvieira.github.io/Portfolio/
+ <p> 🖥️ &nbsp; Check out my portfolio: https://carlospsvieira.github.io/Portfolio
  <p> 📱 :canada: &nbsp; Worked in the telecom industry in Canada as a sales consultant. </p>
  <p> 🎵 &nbsp; I play music and chess in my free time. </p>
 
