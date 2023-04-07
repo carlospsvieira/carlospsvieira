@@ -1,4 +1,4 @@
-Hey! My name is Carlos Vieira
+Carlos Vieira
 ==============================
 
  <p>:mortar_board: &nbsp;I'm a Web Developer. </p>
