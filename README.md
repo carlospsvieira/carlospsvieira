@@ -3,7 +3,7 @@ Carlos Vieira
 
  <p>:mortar_board: &nbsp; Web Development. </p>
  <p> :construction_worker: &nbsp; Experience buiding dynamic and intuitive software. </p>
- <p> 🖥️ &nbsp; Check out my <a href="https://carlospsvieira.github.io/Portfolio">Portfolio</a>.</p>
+ <p> 🖥️ &nbsp; Check out my <a href="https://carlospsvieira.github.io/Portfolio" target="_blank">Portfolio</a>.</p>
  <p> 🐘 &nbsp; This is <a href="https://github.com/carlospsvieira/mvc_framework">My PHP MVC Framework</a>.</p>
  <p> 📱 :canada: &nbsp; Worked in the telecom industry in Canada as a sales consultant. </p>
  <p> 🎵 &nbsp; I play music and chess in my free time. </p>
