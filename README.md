@@ -4,7 +4,6 @@ Carlos Vieira
  <p>:mortar_board: &nbsp; Web Development. </p>
  <p> 🖥️ &nbsp; Check out my <a href="https://carlospsvieira.github.io/Portfolio" target="_blank">Portfolio</a>.</p>
  <p> 🐘 &nbsp; This is <a href="https://github.com/carlospsvieira/mvc_framework" target="_blank">My PHP MVC Framework</a>.</p>
- <p> 📱 :canada: &nbsp; Worked in the telecom industry in Canada as a sales consultant. </p>
 
 ----------------------------
 
@@ -27,8 +26,6 @@ Carlos Vieira
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-</p>
 
 ----------------------------
 ### LinkedIn
