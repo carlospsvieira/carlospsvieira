@@ -8,7 +8,7 @@ Software Developer & Data Analyst
 * 🖥️  See my portfolio at [MyPortfolio](http://carlospsvieira.github.io/Portfolio)
 * ✉️  You can contact me at [carlepsvieira@gmail.com](mailto:carlepsvieira@gmail.com)
 * 🚀  I'm currently working on [My PHP MVC Framework](http://github.com/carlospsvieira/mvc_framework) 
-* 🧠  I'm learning Data Analytics and Finishing my Software Development course
+* 🧠  I'm learning Data Analytics and C#
 
 ### Skills
 
