@@ -1,4 +1,4 @@
-My name is Carlos Vieira
+Carlos Vieira
 ==============================
 
 Software Developer & Data Analyst
