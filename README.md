@@ -4,7 +4,7 @@ Carlos Vieira
 Software Developer & Data Analyst
 ---------------------------------
 
-* 🌍  I'm based in Ribeirao Preto, Sao Paulo - Brazil
+* 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [MyPortfolio](http://carlospsvieira.github.io/Portfolio)
 * ✉️  You can contact me at [carlepsvieira@gmail.com](mailto:carlepsvieira@gmail.com)
 * 🚀  I'm currently working on [TFC](https://github.com/carlospsvieira/tfc-leaderboard-and-matches) web app. 
