@@ -1,7 +1,7 @@
 Carlos Vieira
 ==============================
 
-Software Developer & Data Analyst
+Software Developer
 ---------------------------------
 
 * 🌍  I'm based in Brazil
