@@ -1,7 +1,7 @@
 # Software Developer
 
 
-I'm a dedicated software developer who's put together a group of four freelancers to take on new challenges. </br>
+I'm a dedicated software developer who has put together a group of four freelancers to take on new challenges. </br>
 My knowledge also extends to p.o. activities such as managing the product backlog, representing stakeholders,</br>
 and helping the team stay aligned with the product roadmap. You can hire us <a href="https://www.workana.com/freelancer/09828ddbd0725cda24b63c7ae5172ad9">here</a>. </br>
 
