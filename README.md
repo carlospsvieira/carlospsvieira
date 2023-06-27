@@ -4,7 +4,7 @@
 I'm a dedicated software developer with a strong foundation in front-end and back-end technologies. </br>
 My knowledge also extends to representing stakeholders, and helping the team stay aligned with the product roadmap. You can hire my team <a href="https://www.workana.com/freelancer/09828ddbd0725cda24b63c7ae5172ad9">here</a>. </br>
 
-Or contact me directly on <a href="https://www.linkedin.com/in/carlospsvieira">Linkedin</a> if you want me to be part of your team. 
+Or contact me directly on <a href="https://www.linkedin.com/in/carlospsvieira">Linkedin</a> if you want me to be part of your company. 
 <hr>
 
 ### My Stats :
