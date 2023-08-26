@@ -1,8 +1,5 @@
 # Software Developer
 
-
-I'm a dedicated software developer with a strong foundation in front-end and back-end technologies. <br>
-
 <b> <i>Contact: <a href="https://www.linkedin.com/in/carlospsvieira">Linkedin</a></i></b> 
 <hr>
 
