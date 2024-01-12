@@ -20,7 +20,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/React-00ADD8.svg?style=for-the-badge&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white" />
-  <img src="https://img.shields.io/badge/FIBER-00ADD8.svg?style=for-the-badge&logo=Fiber&color=FFF" />
+  <img src="https://img.shields.io/badge/=FIBER-00ADD8.svg?style=for-the-badge&logo=Fiber&color=FFF" />
   <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" />
