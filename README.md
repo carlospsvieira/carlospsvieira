@@ -3,10 +3,6 @@
 <b> <i>Contact: <a href="https://www.linkedin.com/in/carlospsvieira">Linkedin</a></i></b> 
 <hr>
 
-### My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carlospsvieira&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
 #### Languages I work with :
 <p align="left">
 <img src="https://img.shields.io/badge/TypeScript-0b5394.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
