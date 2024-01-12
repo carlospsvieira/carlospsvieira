@@ -1,9 +1,12 @@
 # Software Developer
 
-<b> <i>Contact: <a href="https://www.linkedin.com/in/carlospsvieira">Linkedin</a></i></b> 
-<hr>
+## Contact:
+<p align="left">
+<a href="https://linkedin.com/in/carlospsvieira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+<a href="mailto:carlepsvieira@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+</p>
 
-#### Languages I work with :
+## Languages I work with :
 <p align="left">
 <img src="https://img.shields.io/badge/TypeScript-0b5394.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white" />
@@ -12,7 +15,7 @@
 <img src="https://img.shields.io/badge/Python-bf9000.svg?style=for-the-badge&logo=Python&logoColor=white" />
 </p>
 
-#### Toolbox :
+## Toolbox :
 <p align="left">
   <img src="https://img.shields.io/badge/React-00ADD8.svg?style=for-the-badge&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white" />
