@@ -12,8 +12,8 @@
 <img src="https://img.shields.io/badge/TypeScript-0b5394.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white" />
 <img src="https://img.shields.io/badge/C SHARP-512BD4.svg?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-bf9000.svg?style=for-the-badge&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/Node-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-bf9000.svg?style=for-the-badge&logo=Python&logoColor=white" />
 </p>
 
 #### Toolbox :
