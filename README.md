@@ -2,6 +2,7 @@
 
 ### Contact:
 <p align="left">
+<a href="https://portfolio-carlospsvieira.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-fbc800.svg?style=for-the-badge&logo=Portfolio" /></a>
 <a href="https://linkedin.com/in/carlospsvieira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 <a href="mailto:carlepsvieira@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
@@ -25,7 +26,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-fbc800.svg?style=for-the-badge&logo=Linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
