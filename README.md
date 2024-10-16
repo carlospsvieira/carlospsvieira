@@ -1,7 +1,5 @@
 # Full-stack Developer
 
-#### Telemedicine applications, Electronic Health Records (EHRs), Enterprise and Fintech Software Development
-
 <p>
 <!-- <a href="https://github.com/carlospsvieira"><img src="https://img.shields.io/badge/Portfolio-3d8ec6.svg?style=for-the-badge&logoColor=white" /></a> -->
 <a href="https://linkedin.com/in/carlospsvieira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
