@@ -1,4 +1,4 @@
-# Full-stack Developer
+# Front-end Developer | Software Developer
 
 <p>
 <a href="https://carlos-web-wine.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0000BF.svg?style=for-the-badge&logoColor=white" /></a>
