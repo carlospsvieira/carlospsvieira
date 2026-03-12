@@ -1,7 +1,5 @@
 <div align="center">
 
-# Carlos Vieira
-
 **Product Engineer**
 
 React • TypeScript • APIs
