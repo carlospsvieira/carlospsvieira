@@ -1,5 +1,6 @@
-# Software Developer
+# Carlos Vieira
 
-<p>
-<a href="https://linkedin.com/in/carlospsvieira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-</p>
+Product Engineer | React • TypeScript • APIs
+
+[![Website](https://img.shields.io/badge/Website-Visit-111?style=for-the-badge&logo=vercel&logoColor=white)](https://carlos-website-beta.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlospsvieira)
