@@ -1,8 +1,8 @@
 <div align="center">
 
-**Product Engineer**
+##Product Engineer##
 
-React • TypeScript • APIs
+**React • TypeScript • APIs**
 
 <br>
 
