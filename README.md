@@ -1,6 +1,6 @@
 <div>
 
-## Full-stack | Product Engineer ##
+## Full-stack | QA & Product Engineer ##
 
 **React • TypeScript • APIs**
 
