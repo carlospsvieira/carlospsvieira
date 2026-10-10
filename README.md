@@ -1,6 +1,6 @@
 # Hi, I'm Carlos Vieira
 
-**Frontend Developer** · React · TypeScript · Brazil 🇧🇷 · Remote
+**Software Developer** · React · TypeScript · Brazil 🇧🇷 · Remote
 
 4 years shipping frontend in production. I work where frontend meets product: domain modeling, business rules and interface architecture.
 
