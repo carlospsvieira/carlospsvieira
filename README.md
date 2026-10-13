@@ -12,7 +12,7 @@
 - Main Frontend developer for a white-label telemedicine platform (~50k users, including the São Paulo State Department of Health)
 - Real-time urgent care queue over WebSocket: reconnection with backoff, room re-entry, event deduplication and aggregation windows to avoid request bursts at peak
 - Video provider abstraction that enabled the Twilio → Jitsi migration across web and native (Capacitor) without rewriting the consultation screen
-- Product owner of an occupational health exam system (250+ clinics), including an AI document extraction service built on *"an empty field beats a wrong field"*
+- Lead developer of Kompa's occupational health exam system (250+ client clinics), including an AI document extraction service built on *"an empty field beats a wrong field"*
 
 **Continental Software** · Frontend Developer · *May 2022 – Sep 2023*
 - Frontend on Pfizer's Covid-19 Quiz, a public risk screening web app (React 18, TypeScript, Vite, MUI)
