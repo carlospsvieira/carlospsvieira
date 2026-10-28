@@ -1,40 +1,34 @@
-# Hi, I'm Carlos Vieira
+# Hi, I'm Carlos
 
-**Frontend Developer** · React · TypeScript · Brazil 🇧🇷 · Remote
+Frontend engineer building **React + TypeScript** products for digital health.
+Based in Brazil, working remotely. Fluent in English and Portuguese.
+**Open to remote roles (LATAM / Brazil).**
 
-4 years shipping frontend in production. I work where frontend meets product: domain modeling, business rules and interface architecture.
+## What I work on
 
----
+- **Telemedicine platform** (sole frontend author, ~50,000 users): real-time urgent care queue over WebSocket, full video consultation flow, and a video provider abstraction that moved us from Twilio to Jitsi on web and native without rewriting the consultation screen.
+- **Occupational health exam system** (lead developer, 250+ clinics): architecture, business rules, and an AI document extraction service built on one rule: *an empty field beats a wrong field*.
+- **Health integrations:** electronic health records and digital signature with the MEMED and Mevo prescription platforms.
 
-### 💼 Experience
+## Currently building
 
-**Kompa Saúde** · Full-stack Developer, frontend focus · *Sep 2023 – present*
-- Main Frontend developer for a white-label telemedicine platform (~50k users, including the São Paulo State Department of Health)
-- Real-time urgent care queue over WebSocket: reconnection with backoff, room re-entry, event deduplication and aggregation windows to avoid request bursts at peak
-- Video provider abstraction that enabled the Twilio → Jitsi migration across web and native (Capacitor) without rewriting the consultation screen
-- Lead developer of Kompa's occupational health exam system (250+ client clinics), including an AI document extraction service built on *"an empty field beats a wrong field"*
+🏦 A mock high-traffic digital bank, built in public.
+Next.js App Router · strict TypeScript · React Query · MSW
 
-**Continental Software** · Frontend Developer · *May 2022 – Sep 2023*
-- Frontend on Pfizer's Covid-19 Quiz, a public risk screening web app (React 18, TypeScript, Vite, MUI)
+## Stack
 
----
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?logo=capacitor&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-### 🌱 Right now
+## Contact
 
-**Building:** a mock high-traffic banking system, in public. Frontend first (Next.js App Router, strict TypeScript, React Query, MSW), then its backend from scratch in Java  
-**Studying:** JavaScript in depth (coercion, closures, prototypes), then networking and databases, on the way to Java and Spring Boot
-
----
-
-### 🛠️ Stack
-
-**Core:** TypeScript · JavaScript · React · HTML/CSS · REST · WebSocket (socket.io)  
-**Also:** MUI · styled-components · Vite · Capacitor · Jest · Playwright · Docker · PostgreSQL
-
----
-
-### 🌎 Languages
-Portuguese (native) · English (fluent)
-
-### 📫 Contact
-[LinkedIn](https://linkedin.com/in/carlospsvieira) · psvieiracarlos@gmail.com
+[LinkedIn](https://www.linkedin.com/in/carlospsvieira) · [Portfolio](https://carlos-website-beta.vercel.app) · carlepsvieira@gmail.com
